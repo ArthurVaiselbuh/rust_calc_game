@@ -1,0 +1,4 @@
+# Rust Calculator Game
+
+A calculator game written in rust.
+The game generates an short equasion and asks the user to reconstruct the result using the given numbers.
